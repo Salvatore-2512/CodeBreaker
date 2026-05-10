@@ -1,0 +1,21 @@
+# Xcode user-specific files
+*.xcuserstate
+xcuserdata/
+*.xcuserdatad
+
+# macOS
+.DS_Store
+
+# Swift Package Manager
+.build/
+*.swiftpm
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build/
+
+# Build folders
+build/
+DerivedData/
